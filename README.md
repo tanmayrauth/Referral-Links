@@ -1,15 +1,16 @@
+@import "{{ site.theme }}";
 # Get all referrals here
 
 [Amex Credit Card]()
 [Discover Credit Card]()
-[Remitly]
-[Novacredit]
-[Paypal]
+[Remitly]()
+[Novacredit]()
+[Paypal]()
 
 [GrubHub]()
 [Aldis]()
-[Wee]
-[Ubereats]
+[Wee]()
+[Ubereats]()
 
 [Tmobile]()
 
@@ -19,4 +20,4 @@
 
 [Topmate]()
 [Design Guru - System Design Course (Helped me to crack Apple Interview)]()
-[Educative.io]
+[Educative.io]()
