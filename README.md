@@ -1,4 +1,3 @@
-# Get all referrals here
 
 [Amex Credit Card]()
 
