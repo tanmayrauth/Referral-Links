@@ -1,5 +1,4 @@
 
-## Referral Links
 
 ### Finance
 * [Amex Credit Card](https://americanexpress.com/en-us/referral/TANMARu5Ba?XL=MNACP)
